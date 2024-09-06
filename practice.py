@@ -24,3 +24,5 @@ partnership_interest = float(input("Enter the partnership interest (as a percent
 # Calculate ROI based on user inputs
 roi = calculate_roi(net_profit, investment_cost, partnership_interest)
 print(f"Final ROI: {roi:.2f}%")
+
+#these are the calculations
